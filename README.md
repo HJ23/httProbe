@@ -1,2 +1,2 @@
-# HttProbe
-Httprobe written in python.
+# httProbe
+simple httprobe written in python.
